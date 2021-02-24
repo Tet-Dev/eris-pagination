@@ -1,15 +1,39 @@
 {
-  "name": "eris-pagination",
-  "version": "0.5.0",
-  "description": "An extremely easy to use Embed Paginator for the Eris Discord Library",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
+  "_from": "github:riyacchi/eris-pagination",
+  "_id": "eris-pagination@0.5.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/eris-pagination",
+  "_phantomChildren": {},
+  "_requested": {
     "type": "git",
-    "url": "git+https://github.com/riyacchi/eris-pagination.git"
+    "raw": "eris-pagination@github:riyacchi/eris-pagination",
+    "name": "eris-pagination",
+    "escapedName": "eris-pagination",
+    "rawSpec": "github:riyacchi/eris-pagination",
+    "saveSpec": "github:riyacchi/eris-pagination",
+    "fetchSpec": null,
+    "gitCommittish": null
   },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:riyacchi/eris-pagination#1c87f3fda85e58d81504f5a80b0b203bad481b8f",
+  "_spec": "eris-pagination@github:riyacchi/eris-pagination",
+  "_where": "/Users/peng/Desktop/NadekoRewrite",
+  "author": {
+    "name": "Riya"
+  },
+  "bugs": {
+    "url": "https://github.com/riyacchi/eris-pagination/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "eris-reactions": "^0.1.3"
+  },
+  "deprecated": false,
+  "description": "An extremely easy to use Embed Paginator for the Eris Discord Library",
+  "homepage": "https://github.com/riyacchi/eris-pagination#readme",
   "keywords": [
     "eris",
     "pagination",
@@ -18,16 +42,18 @@
     "embed-pagination",
     "discord"
   ],
-  "author": "Riya",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/riyacchi/eris-pagination/issues"
-  },
-  "homepage": "https://github.com/riyacchi/eris-pagination#readme",
-  "dependencies": {
-    "eris-reactions": "^0.1.2"
-  },
+  "main": "index.js",
+  "name": "eris-pagination",
   "peerDependencies": {
     "eris": "^0.13.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riyacchi/eris-pagination.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.5.1"
 }
